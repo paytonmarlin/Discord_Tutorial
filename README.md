@@ -31,9 +31,9 @@ Now that you have joined that ILS (IT Learning Support) server, here are a few q
 
 ## Step 3: **Customizing what *YOU* Want**
 ---
-If you go back to the IT Learning Support Server, you can see that you only have access to the 'rules' text channel and the general voice channel. Read the rules and click the green check box to gain access to more channels.
+If you go back to the IT Learning Support Server, you can see that you only have access to the 'rules' text channel and the general voice channel. You will need to click on the button at the bottom/top that says to complete more steps. Once you have read the rules there and hit the 'agree' checkbox you will have access to select classes!
 
-![Student_Role](/images/Student_Role.gif "Gain Access to More Channels")
+![Student_Role](/images/Discord_Demonstration.gif "Gain Access to More Channels")
 
 Now you will see that more text channels on your channel overlay called "class-selection' and 'general'.
 
